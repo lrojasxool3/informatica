@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>Pagina1</title>
+</head>
+<body>
+<h2> Enlaces locales </h2>
+		<h3> <A name="indice"> Indice </A> </h3>
+		<ul>
+		        <li><A href="#uno"> Seccion uno </A>
+		        <li><A href="#dos"> Seccion dos </A>
+                <li><A href="#tres"> Seccion tres </A>		
+		</ul>
+		<h3> <A name="uno"> Seccion uno </A> </H3>
+		<p> Esta es la sección 1 de la pagina de enlaces locales </p>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<p> Click aqui para <A href="#indice"> volver al indice </A>
+		
+		<h3> <A name="dos"> Seccion dos </A> </H3>
+		<p> Esta es la sección 2 de la pagina de enlaces locales </p>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<p> Click aqui para <A href="#indice"> volver al indice </A>
+
+		<h3> <A name="tres"> Seccion tres </A> </H3>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<BR>
+		<p> Esta es la sección 3  de la pagina de enlaces locales </p>
+		<p> Click aqui para <A href="#indice"> volver al indice </A>
+
+</body>
+
+</HTML>
